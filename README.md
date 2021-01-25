@@ -1,4 +1,4 @@
-# Programacao-Funcional-Haskell
+# Functional-Programming-Haskell
 
 This repository contains 50 problems to be solved using the Functional Programming Paradigm.
 Inside, you'll find a PDF document with the problems and an haskell file with the solution to each problem.
